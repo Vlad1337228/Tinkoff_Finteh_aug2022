@@ -1,0 +1,8 @@
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\bin\Debug\TinkoffFinteh2.0.exe.config
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\bin\Debug\TinkoffFinteh2.0.exe
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\bin\Debug\TinkoffFinteh2.0.pdb
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\obj\Debug\TinkoffFinteh2.0.csproj.AssemblyReference.cache
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\obj\Debug\TinkoffFinteh2.0.csproj.SuggestedBindingRedirects.cache
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\obj\Debug\TinkoffFinteh2.0.csproj.CoreCompileInputs.cache
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\obj\Debug\TinkoffFinteh2.0.exe
+D:\Myself Works\TINKOFF\TinkoffFinteh2.0\TinkoffFinteh2.0\obj\Debug\TinkoffFinteh2.0.pdb
